@@ -50,7 +50,7 @@
     },
     {
       "platform": "arm64",
-      "icon": "https://www.gimp.org/images/frontpage/wilber-big.png",
+      "icon": "https://raw.githubusercontent.com/GNOME/gimp-data/refs/heads/main/images/logo/gimp-logo-macos.svg",
       "dmg": "https://download.gimp.org/gimp/v2.10/macos/gimp-2.10.38-arm64-1.dmg",
       "name": "GIMP",
       "version": "2.10.38",
