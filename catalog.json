@@ -4,139 +4,185 @@
       "platform": "arm64",
       "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRqQUITBKRiXcVJP73okcjlze-wA-NwDtHt1PTTzDKK0R7QiLMdSTXSOq8oj7FrA5usME&usqp=CAU",
       "dmg": "https://github.com/zen-browser/desktop/releases/download/1.0.1-a.19/zen.macos-aarch64.dmg",
-      "name": "Zen Browser AARCH64 MAC"
+      "name": "Zen Browser AARCH64 MAC",
+      "version": "DEMO_VERSION",
+      "id": 1
     },
     {
       "platform": "x86_64",
       "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRqQUITBKRiXcVJP73okcjlze-wA-NwDtHt1PTTzDKK0R7QiLMdSTXSOq8oj7FrA5usME&usqp=CAU",
       "dmg": "https://github.com/zen-browser/desktop/releases/download/1.0.1-a.19/zen.macos-x64.dmg",
-      "name": "Zen Browser INTEL MAC"
+      "name": "Zen Browser INTEL MAC",
+      "version": "DEMO_VERSION",
+      "id": 2
     },
     {
       "platform": "arm64",
       "icon": "https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png",
       "dmg": "https://download.jetbrains.com/python/pycharm-community-2024.3-aarch64.dmg",
-      "name": "PyCharm"
+      "name": "PyCharm",
+      "version": "DEMO_VERSION",
+      "id": 3
     },
     {
       "platform": "arm64",
       "icon": "https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png",
       "dmg": "https://download.jetbrains.com/idea/ideaIC-2024.3-aarch64.dmg",
-      "name": "IntelliJ IDEA"
+      "name": "IntelliJ IDEA",
+      "version": "DEMO_VERSION",
+      "id": 4
     },
     {
       "platform": "arm64",
       "icon": "https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.png",
       "dmg": "https://download.jetbrains.com/webstorm/WebStorm-2024.3-aarch64.dmg",
-      "name": "WebStorm"
+      "name": "WebStorm",
+      "version": "DEMO_VERSION",
+      "id": 5
     },
     {
       "platform": "arm64",
       "icon": "https://resources.jetbrains.com/storage/products/company/brand/logos/RustRover_icon.png",
       "dmg": "https://download.jetbrains.com/rustrover/RustRover-2024.2.5-aarch64.dmg",
-      "name": "RustRover"
+      "name": "RustRover",
+      "version": "DEMO_VERSION",
+      "id": 6
     },
     {
       "platform": "arm64",
       "icon": "https://www.gimp.org/images/frontpage/wilber-big.png",
       "dmg": "https://download.gimp.org/gimp/v2.10/macos/gimp-2.10.38-arm64-1.dmg",
-      "name": "GIMP"
+      "name": "GIMP",
+      "version": "DEMO_VERSION",
+      "id": 7
     },
     {
       "platform": "arm64",
       "icon": "https://raw.githubusercontent.com/eclipse-theia/theia/be43debe1022386cc5da58128e8e5481a97abc74/logo/theia.svg",
       "dmg": "https://www.eclipse.org/downloads/download.php?file=/theia/ide/latest/macos/TheiaIDE.dmg&r=1",
-      "name": "TheiaIDE"
+      "name": "TheiaIDE",
+      "version": "DEMO_VERSION",
+      "id": 8
     },
     {
       "platform": "arm64",
       "icon": "https://github.com/ankitects/anki/blob/main/qt/bundle/mac/icon/Assets.xcassets/AppIcon.appiconset/round-1024-512.png?raw=true",
       "dmg": "https://github.com/ankitects/anki/releases/download/24.06.3/anki-24.06.3-mac-apple-qt6.dmg",
-      "name": "Anki"
+      "name": "Anki",
+      "version": "DEMO_VERSION",
+      "id": 9
     },
     {
       "platform": "arm64",
       "icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.blender.org%2Fwp-content%2Fthemes%2Fbthree%2Fassets%2Fimages%2Fblender_logo_square.png&f=1&nofb=1&ipt=fb5688a71e2a95f674e0c08bbaa1e3156b028c763546d40dedfc6dec4141d8ef&ipo=images",
       "dmg": "https://mirrors.ocf.berkeley.edu/blender/release/Blender4.2/blender-4.2.3-macos-arm64.dmg",
-      "name": "Blender"
+      "name": "Blender",
+      "version": "DEMO_VERSION",
+      "id": 10
     },
     {
       "platform": "all",
       "icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwiki.tiplanet.org%2Fimages%2Fc%2Fcc%2FTI_Connect_CE_logo.png&f=1&nofb=1&ipt=05e99b9283acc3aaf329cf5a50303dd10c399f578d3e10d718ba757e085a68f3&ipo=images",
       "dmg": "https://education.ti.com/download/en/ed-tech/CA9C74CAD02440A69FDC7189D7E1B6C2/D96C79959E494383BDCA94D0478FFF05/TIConnectCE-6.0.1.344.dmg",
-      "name": "TI Connect CE"
+      "name": "TI Connect CE",
+      "version": "DEMO_VERSION",
+      "id": 11
     },
     {
       "platform": "all",
       "icon": "https://raw.githubusercontent.com/libretro/RetroArch/3d8c981ac9ecff292527ccd9390d0e40344e8531/media/icons/icon.svg",
       "dmg": "https://buildbot.libretro.com/nightly/apple/osx/universal/RetroArch_Metal.dmg",
-      "name": "RetroArch"
+      "name": "RetroArch",
+      "version": "DEMO_VERSION",
+      "id": 12
     },
     {
       "platform": "all",
       "icon": "https://static.macupdate.com/products/33033/m/spotify-logo.webp?v=1670529548",
       "dmg": "https://download.scdn.co/Spotify.dmg",
-      "name": "Spotify"
+      "name": "Spotify",
+      "version": "DEMO_VERSION",
+      "id": 13
     },
     {
       "platform": "arm64",
       "icon": "https://www.anaconda.com/wp-content/uploads/2024/06/AI_Naigator_White_on_Purple.svg",
       "dmg": "https://autoupdate.ai.anaconda.com/latest-AI-Navigator-arm64.dmg",
-      "name": "Anaconda AI Navigator"
+      "name": "Anaconda AI Navigator",
+      "version": "DEMO_VERSION",
+      "id": 14
     },
     {
       "platform": "arm64",
       "icon": "https://github.com/Eugeny/tabby/blob/master/build/icons/Icon-MacOS-512x512@2x.png?raw=true",
       "dmg": "https://github.com/Eugeny/tabby/releases/download/v1.0.215/tabby-1.0.215-macos-arm64.dmg",
-      "name": "tabby.sh"
+      "name": "tabby.sh",
+      "version": "DEMO_VERSION",
+      "id": 15
     },
     {
       "platform": "all",
       "icon": "https://www.codeedit.app/_next/image?url=%2Fproduct-icon.png&w=256&q=75",
       "dmg": "https://github.com/CodeEditApp/CodeEdit/releases/download/v0.3.2/CodeEdit.dmg",
-      "name": "CodeEdit"
+      "name": "CodeEdit",
+      "version": "DEMO_VERSION",
+      "id": 16
     },
     {
       "platform": "arm64",
       "icon": "https://www.geany.org/static/img/geany.svg",
       "dmg": "https://download.geany.org/geany-2.0_osx_arm64.dmg",
-      "name": "Geany"
+      "name": "Geany",
+      "version": "DEMO_VERSION",
+      "id": 17
     },
     {
       "platform": "all",
       "icon": "https://www.genymotion.com/wp-content/uploads/2023/11/icon-logo-desktop.png",
       "dmg": "https://dl.genymotion.com/releases/genymotion-3.8.0/genymotion-3.8.0.dmg",
-      "name": "Genymotion Desktop"
+      "name": "Genymotion Desktop",
+      "version": "DEMO_VERSION",
+      "id": 18
     },
     {
       "platform": "arm64",
       "icon": "https://github.com/VSCodium/vscodium/raw/master/icons/stable/codium_cnl.svg",
       "dmg": "https://github.com/VSCodium/vscodium/releases/download/1.95.3.24321/VSCodium.arm64.1.95.3.24321.dmg",
-      "name": "VSCodium 11/21/24"
+      "name": "VSCodium 11/21/24",
+      "version": "DEMO_VERSION",
+      "id": 19
     },
     {
       "platform": "arm64",
       "icon": "https://github.com/FreeCAD/FreeCAD/raw/main/src/Gui/Icons/freecad.svg",
       "dmg": "https://github.com/FreeCAD/FreeCAD/releases/download/1.0.0/FreeCAD_1.0.0-conda-macOS-arm64-py311.dmg",
-      "name": "FreeCAD 1.0.0"
+      "name": "FreeCAD 1.0.0",
+      "version": "DEMO_VERSION",
+      "id": 20
     },
     {
       "platform": "arm64",
       "icon": "https://flathub.org/_next/image?url=https%3A%2F%2Fdl.flathub.org%2Fmedia%2Forg%2Flibreoffice%2FLibreOffice.desktop%2Fa857eb96feab8036fa1e49b8bc3c7b9f%2Ficons%2F128x128%2Forg.libreoffice.LibreOffice.desktop.png&w=256&q=100",
       "dmg": "https://download.documentfoundation.org/libreoffice/stable/24.8.3/mac/aarch64/LibreOffice_24.8.3_MacOS_aarch64.dmg",
-      "name": "LibreOffice"
+      "name": "LibreOffice",
+      "version": "DEMO_VERSION",
+      "id": 21
     },
     {
       "platform": "all",
       "icon": "https://raw.githubusercontent.com/LibreCAD/LibreCAD/7838da61f71baf93c722c05f7c4c80f802cd06a1/desktop/media/icons/librecad_icon.svg",
       "dmg": "https://github.com/LibreCAD/LibreCAD/releases/download/2.2.0.2/LibreCAD-2.2.0.2.dmg",
-      "name": "LibreCAD 2.2.0.2"
+      "name": "LibreCAD 2.2.0.2",
+      "version": "DEMO_VERSION",
+      "id": 22
     },
     {
       "platform": "all",
       "icon": "https://github.com/TurboWarp/desktop/blob/master/art/icon.png?raw=true",
       "dmg": "https://github.com/TurboWarp/desktop/releases/download/v1.12.3/TurboWarp-Setup-1.12.3.dmg",
-      "name": "TurboWarp"
+      "name": "TurboWarp",
+      "version": "DEMO_VERSION",
+      "id": 23
     }
   ]
 }
