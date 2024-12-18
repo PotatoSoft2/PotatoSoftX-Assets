@@ -25,7 +25,7 @@
       "icon": "https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png",
       "dmg": "https://download.jetbrains.com/python/pycharm-community-2024.3-aarch64.dmg",
       "name": "PyCharm",
-      "desc": "PyCharm is an integrated development environment (IDE) used for programming in Python. It provides code analysis, a graphical debugger, an integrated unit tester, integration with version control systems, and supports web development with Django. PyCharm is developed by the Czech company JetBrains and built on their IntelliJ platform."
+      "desc": "PyCharm is an integrated development environment (IDE) used for programming in Python. It provides code analysis, a graphical debugger, an integrated unit tester, integration with version control systems, and supports web development with Django. PyCharm is developed by the Czech company JetBrains and built on their IntelliJ platform.",
       "version": "2024.3",
       "installitems": ["PyCharm CE.app"],
       "id": 3
