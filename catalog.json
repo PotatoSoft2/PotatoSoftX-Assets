@@ -200,7 +200,7 @@
       "id": 24
     },
     {
-      "platform" "arm64",
+      "platform": "arm64",
       "icon": "",
       "dmg": "https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.4_macOS_arm64.dmg",
       "name": "Arudino IDE",
