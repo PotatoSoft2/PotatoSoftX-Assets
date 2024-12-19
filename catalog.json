@@ -198,6 +198,15 @@
       "version": "2.2.32.3.1",
       "desc": "!!!! IMPORTANT !!!!\nEnsure that you are using PSX Version 0.3.0 or later\n!!!! IMPORTANT !!!!\n\nSchematic Capture\n\nOur powerful schematic editor supports complex designs with over 500 sheets and 100,000 pins.\nWith Easy-to-use components selection tool, millions of free libraries that include symbols, footprints, and 3D models, along with real-time inventory and pricing, and flexible module design, our tool streamlines your design process, helping you design faster and easier.\n\nPCB Design\n\nSupports complex projects with over 5,000 components or 10,000 pads. Powerful interactive Routing, one-click placement of blind and buried vias, Via Stitching and browser extension support.\nOur intuitive visualization tools and rules-based routing simplify layout tasks, and optimize routing and component placement of the PCB to ensure that it operates as intended and can be manufactured efficiently.", 
       "id": 24
+    },
+    {
+      "platform" "arm64",
+      "icon": "",
+      "dmg": "https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.4_macOS_arm64.dmg",
+      "name": "Arudino IDE",
+      "version": "2.3.4",
+      "desc": "Programming Toolset for Arduino MCU",
+      "id": 25
     }
   ]
 }
