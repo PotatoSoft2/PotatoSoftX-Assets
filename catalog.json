@@ -189,6 +189,15 @@
       "name": "TurboWarp",
       "version": "1.12.3",
       "id": 23
+    },
+    {
+      "platform": "arm64",
+      "icon": "https://cdn-1.webcatalog.io/catalog/easyeda/easyeda-icon-filled-256.png",
+      "dmg": "https://image.easyeda.com/files/easyeda-pro-mac-arm64-2.2.32.3.1.zip",
+      "name": "EasyEDA Pro",
+      "version": "2.2.32.3.1",
+      "desc": "!!!! IMPORTANT !!!!\nEnsure that you are using PSX Version 0.3.0 or later\n!!!! IMPORTANT !!!!\n\nThis software has not been officially tested yet\b\bBETA\n", 
+      "id": 24
     }
   ]
 }
