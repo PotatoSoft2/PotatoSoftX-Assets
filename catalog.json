@@ -21,6 +21,16 @@
       "id": 2
     },
     {
+      "platform": "all",
+      "icon": "https://avatars.githubusercontent.com/u/94953125?s=200&v=4",
+      "dmg": "https://github.com/Floorp-Projects/Floorp/releases/download/v11.22.0/floorp-macOS-universal.dmg",
+      "name": "Floorp Browser",
+      "desc": "The advanced Japanese-designed Firefox derivative. Supports new features such as vertical tabs, and improved customization.",
+      "version": "v11.22.0",
+      "installitems": ["Floorp.app"],
+      "id": 2
+    },
+    {
       "platform": "arm64",
       "icon": "https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png",
       "dmg": "https://download.jetbrains.com/python/pycharm-community-2024.3-aarch64.dmg",
