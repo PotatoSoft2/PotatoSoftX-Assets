@@ -219,5 +219,14 @@
       "desc": "Programming Toolset for Arduino MCU",
       "id": 25
     }
+    {
+      "platform": "all",
+      "icon": "https://godotengine.org/assets/logo_dark.svg",
+      "dmg": "https://github.com/godotengine/godot/releases/download/4.3-stable/Godot_v4.3-stable_macos.universal.zip",
+      "name": "Godot",
+      "version": "4.3",
+      "desc": "Godot game engine",
+      "id": 26
+    }
   ]
 }
