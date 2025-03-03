@@ -218,7 +218,7 @@
       "version": "2.3.4",
       "desc": "Programming Toolset for Arduino MCU",
       "id": 25
-    }
+    },
     {
       "platform": "all",
       "icon": "https://godotengine.org/assets/logo_dark.svg",
