@@ -263,6 +263,15 @@
       "version": "unstable",
       "desc": "Filelight is an application to visualize the disk usage on your computer by showing folders using an easy-to-understand view of concentric rings. Filelight makes it simple to free up space!",
       "id": 31
+    },
+    {
+      "platform": "arm64",
+      "icon": "https://github.com/exelban/stats/blob/master/Stats/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/icon_128x128.png?raw=true",
+      "dmg": "https://github.com/exelban/stats/releases/download/v2.11.41/Stats.dmg",
+      "name": "Stats",
+      "version": "v2.11.41",
+      "desc": "macOS system monitor in your menu bar",
+      "id": 32
     }
   ]
 }
