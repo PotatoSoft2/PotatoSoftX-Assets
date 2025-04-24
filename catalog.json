@@ -281,15 +281,6 @@
       "version": "v2.15.0",
       "desc": "💦 Make any website your Mac desktop wallpaper",
       "id": 33
-    },
-    {
-      "platform": "all",
-      "icon": "https://ryanhanson.dev/assets/images/Rectangle.png",
-      "dmg": "https://github.com/rxhanson/Rectangle/releases/download/v0.87/Rectangle0.87.dmg",
-      "name": "Rectangle",
-      "version": "v0.87",
-      "desc": "The new standard in window management for macOS. Free and open source.",
-      "id": 34
     }
   ]
 }
