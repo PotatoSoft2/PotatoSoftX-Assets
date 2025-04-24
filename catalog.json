@@ -90,7 +90,7 @@
     },
     {
       "platform": "arm64",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg",
+      "icon": "https://github.com/blender/blender/blob/main/release/windows/msix/Assets/Square71x71Logo.scale-400.png?raw=true",
       "dmg": "https://mirrors.ocf.berkeley.edu/blender/release/Blender4.2/blender-4.2.3-macos-arm64.dmg",
       "name": "Blender",
       "version": "4.2.3",
