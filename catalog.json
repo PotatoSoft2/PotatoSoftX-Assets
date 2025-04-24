@@ -245,6 +245,15 @@
       "version": "1.3.9",
       "desc": "WARNING: YOU MAY BE BEING SCAMMED!\nIf you are on the phone with someone you DON'T know AND TRUST who has asked you to install RustDesk,\ndo not install and hang up immediately.\nThey are likely a scammer trying to steal your money or other private information.\n\nYet another remote desktop software, written in Rust. Works out of the box, no configuration required. You have full control of your data, with no concerns about security. You can use our rendezvous/relay server, set up your own, or write your own rendezvous/relay server.\n\nThe RustDesk server is locked down. CLIENT ONLY.",
       "id": 29
+    },
+    {
+      "platform": "arm64",
+      "icon": "https://apps.kde.org/app-icons/org.kde.konsole.svg",
+      "dmg": "https://cdn.kde.org/ci-builds/utilities/konsole/master/macos-arm64/konsole-master-4000-macos-clang-arm64.dmg",
+      "name": "Konsole",
+      "version": "4000",
+      "desc": "KDE terminal emulator",
+      "id": 30
     }
   ]
 }
