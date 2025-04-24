@@ -251,9 +251,18 @@
       "icon": "https://apps.kde.org/app-icons/org.kde.konsole.svg",
       "dmg": "https://cdn.kde.org/ci-builds/utilities/konsole/master/macos-arm64/konsole-master-4000-macos-clang-arm64.dmg",
       "name": "Konsole",
-      "version": "4000",
+      "version": "unstable",
       "desc": "KDE terminal emulator",
       "id": 30
+    },
+    {
+      "platform": "arm64",
+      "icon": "https://apps.kde.org/app-icons/org.kde.filelight.svg",
+      "dmg": "https://cdn.kde.org/ci-builds/utilities/filelight/master/macos-arm64/filelight-master-1279-macos-clang-arm64.dmg",
+      "name": "Filelight",
+      "version": "unstable",
+      "desc": "Filelight is an application to visualize the disk usage on your computer by showing folders using an easy-to-understand view of concentric rings. Filelight makes it simple to free up space!",
+      "id": 31
     }
   ]
 }
