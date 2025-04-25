@@ -281,15 +281,6 @@
       "version": "v2.15.0",
       "desc": "💦 Make any website your Mac desktop wallpaper",
       "id": 33
-    },
-    {
-      "platform": "arm64",
-      "icon": "https://apps.kde.org/app-icons/org.kde.kblocks.svg",
-      "dmg": "https://cdn.kde.org/ci-builds/games/kblocks/master/macos-arm64/kblocks-master-727-macos-clang-arm64.dmg",
-      "name": "KBlocks",
-      "version": "unstable",
-      "desc": "game",
-      "id": 34
     }
   ]
 }
