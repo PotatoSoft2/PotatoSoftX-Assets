@@ -292,6 +292,15 @@
       "version": "1.4.0",
       "desc": "Inkscape is a free and open-source vector graphics editor. It is used for creating and editing vector graphics, such as illustrations, diagrams, and logos. Inkscape supports various file formats, including SVG, PDF, EPS, and PNG. It is available for Windows, macOS, and Linux.",
       "id": 34
+    },
+    {
+      "platform": "all",
+      "icon": "https://getwhisky.app/_astro/icon.Dn5YXOI8_Z2rXEx2.webp",
+      "dmg": "https://github.com/Whisky-App/Whisky/releases/download/v2.3.5/Whisky.zip",
+      "name": "Whisky",
+      "version": "2.3.5",
+      "desc": "Whisky is a native macOS app that allows you to run Windows applications on your Mac. It uses Wine and CrossOver to provide a seamless experience, allowing you to run Windows apps alongside your native macOS apps. Whisky is open-source and free to use.",
+      "id": 35
     }
   ]
 }
