@@ -283,6 +283,15 @@
       "version": "v2.15.0",
       "desc": "💦 Make any website your Mac desktop wallpaper",
       "id": 33
+    },
+    {
+      "platform": "arm64",
+      "icon": "https://media.inkscape.org/static/images/inkscape-logo.svg",
+      "dmg": "https://inkscape.org/gallery/item/53700/Inkscape-1.4.028868_arm64.dmg",
+      "name": "Inkscape",
+      "version": "1.4.0",
+      "desc": "Inkscape is a free and open-source vector graphics editor. It is used for creating and editing vector graphics, such as illustrations, diagrams, and logos. Inkscape supports various file formats, including SVG, PDF, EPS, and PNG. It is available for Windows, macOS, and Linux.",
+      "id": 34
     }
   ]
 }
