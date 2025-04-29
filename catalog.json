@@ -301,6 +301,24 @@
       "version": "2.3.5",
       "desc": "Whisky is a native macOS app that allows you to run Windows applications on your Mac. It uses Wine and CrossOver to provide a seamless experience, allowing you to run Windows apps alongside your native macOS apps. Whisky is open-source and free to use.",
       "id": 35
+    },
+    {
+      "platform": "arm64",
+      "icon": "https://github.com/maccasoft/spin-tools/blob/master/launcher/spinide256.png?raw=true",
+      "dmg": "https://github.com/maccasoft/spin-tools/releases/download/0.47.2/spin-tools-0.47.2-macos-aarch64.tar.gz",
+      "name": "Spin Tools",
+      "version": "0.47.2",
+      "desc": "Parallax Propeller Spin Tools for macOS",
+      "id": 36
+    },
+    {
+      "platform": "x86_64",
+      "icon": "https://github.com/maccasoft/spin-tools/blob/master/launcher/spinide256.png?raw=true",
+      "dmg": "https://github.com/maccasoft/spin-tools/releases/download/0.47.2/spin-tools-0.47.2-macos-x86_64.tar.gz",
+      "name": "Spin Tools",
+      "version": "0.47.2",
+      "desc": "Parallax Propeller Spin Tools for macOS",
+      "id": 37
     }
   ]
 }
