@@ -158,9 +158,9 @@
     {
       "platform": "all",
       "icon": "https://www.genymotion.com/wp-content/uploads/2023/11/icon-logo-desktop.png",
-      "dmg": "https://dl.genymotion.com/releases/genymotion-3.8.0/genymotion-3.8.0.dmg",
+      "dmg": "https://dl.genymotion.com/releases/genymotion-3.9.0/genymotion-3.9.0.dmg",
       "name": "Genymotion Desktop",
-      "version": "3.8.0",
+      "version": "3.9.0",
       "id": 18
     },
     {
