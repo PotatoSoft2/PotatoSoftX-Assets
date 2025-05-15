@@ -5,9 +5,9 @@
     {
       "platform": "arm64",
       "icon": "https://apps.kde.org/app-icons/org.kde.konsole.svg",
-      "dmg": "https://cdn.kde.org/ci-builds/utilities/konsole/master/macos-arm64/konsole-master-4000-macos-clang-arm64.dmg",
+      "dmg": "https://cdn.kde.org/ci-builds/utilities/konsole/master/macos-arm64/konsole-master-4047-macos-clang-arm64.dmg",
       "name": "Konsole",
-      "version": "unstable",
+      "version": "unstable4047",
       "desc": "KDE terminal emulator",
       "id": 30
     },
